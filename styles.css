@@ -1,0 +1,35 @@
+table,
+tr,
+td {
+  border: transparent;
+  padding-left: 10px;
+  border-collapse: collapse;
+}
+
+* {
+  margin: 0px;
+}
+
+form {
+  margin-left: 10px;
+
+}
+
+.checked {
+  color: orange;
+  font-size: 25px;
+}
+
+.col {
+  display: inline-block;
+}
+
+
+td {
+  text-align: center;
+}
+
+td:first-child {
+  text-align: left;
+  width: 200px;
+}  
